@@ -1,6 +1,6 @@
 # RAN
 
-This repository contains the IDS dictionary introduced in the following papers:<br>
+This repository contains the IDS dictionary introduced in the following paper:<br>
 
 * **RAN**: Radical Analysis Network for Learning Hierarchies of Chinese Characters (Under reviewed by IEEE Transactions on Pattern Analysis and Machine Intelligence)<br>
 
